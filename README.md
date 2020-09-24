@@ -13,5 +13,3 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![ReactJS](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=react)
 ![Docker](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=docker)
-
-:older_man: *[My old account](https://www.github.com/arturboyun-old)*
