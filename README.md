@@ -9,7 +9,8 @@
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/Django-090909?style=for-the-badge&logo=django&logoColor=brightgreen)
-![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram)
+![Telegram API](https://img.shields.io/badge/Telegram%20API-090909?style=for-the-badge&logo=telegram)
 ![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript)
-![ReactJS](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=react)
+![Vue](https://img.shields.io/badge/Vue-090909?style=for-the-badge&logo=vue.js)
+![React](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=react)
 ![Docker](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=docker)
