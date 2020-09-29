@@ -2,7 +2,7 @@
 
 ### Information:
 - 🔭 I’m currently working on different MVP applications.
-- 🌱 I’m currently learning React or Vue + Django or FastAPI.
+- 🌱 I’m currently learning more about Vue + Django
 - 🤔 I’m looking for help with startup projects.
 - 💬 Ask me about Python or JavaScript.
 
