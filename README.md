@@ -1,7 +1,7 @@
 ## Hi there i'm Artur Boyun 👋
 
 ### Information:
-- 🔭 I’m currently working on different MVP applications.
+- 🔭 I’m currently working on freelance projects.
 - 🌱 I’m currently learning more about Vue + FastAPI
 - 🤔 I’m looking for help with startup projects.
 - 💬 Ask me about Python or JavaScript.
