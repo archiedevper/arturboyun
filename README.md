@@ -1,4 +1,4 @@
-## Hi there i'm Artur Boyun 👋
+## Hi there i'm Artur👋
 
 ### Information:
 - 🔭 I’m currently working on freelance and GameDev projects.
@@ -14,3 +14,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![Vue](https://img.shields.io/badge/Vue-090909?style=for-the-badge&logo=vue.js)
 ![Docker](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=docker)
+
+### Get in touch
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/arturboyun)
+![Instagram](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram)
+![Twitter](https://img.shields.io/badge/Twitter-090909?style=for-the-badge&logo=twitter)
