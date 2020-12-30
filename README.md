@@ -1,10 +1,10 @@
 ## Hi there i'm Artur Boyun 👋
 
 ### Information:
-- 🔭 I’m currently working on freelance projects.
-- 🌱 I’m currently learning more about Vue + FastAPI
-- 🤔 I’m looking for help with startup projects.
-- 💬 Ask me about Python or JavaScript.
+- 🔭 I’m currently working on freelance and GameDev projects.
+- 🌱 I’m currently learning more about C++ and C# with SFML.
+- 🤔 I’m looking for help with GameDev projects.
+- 💬 Ask me about Python, JavaScript, C# or C++.
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python)
