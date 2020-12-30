@@ -17,5 +17,5 @@
 
 ### Get in touch
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/arturboyun)
-![Instagram](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram)
-![Twitter](https://img.shields.io/badge/Twitter-090909?style=for-the-badge&logo=twitter)
+[![Instagram](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/archieruin/)
+[![Twitter](https://img.shields.io/badge/Twitter-090909?style=for-the-badge&logo=twitter)](https://twitter.com/arturboyun)
