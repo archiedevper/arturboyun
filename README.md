@@ -1,4 +1,4 @@
-## Hi there i'm Artur👋
+## Hi there i'm Archie👋
 
 ### Information:
 - 🔭 I’m currently working on freelance and GameDev projects.
@@ -16,6 +16,5 @@
 ![Docker](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=docker)
 
 ### Get in touch
-[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/arturboyun)
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/archiesir)
 [![Instagram](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/archieruin/)
-[![Twitter](https://img.shields.io/badge/Twitter-090909?style=for-the-badge&logo=twitter)](https://twitter.com/arturboyun)
