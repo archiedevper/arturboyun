@@ -1,10 +1,10 @@
 ## Hi there i'm Archie👋
 
 ### Information:
-- 🔭 I’m currently working on freelance and GameDev projects.
-- 🌱 I’m currently learning more about C++ and C# with SFML.
-- 😊 I’m looking for friends from IT industry.
-- 🤔 I’m looking for help with GameDev projects.
+- 🔭 I’m currently working on freelance and telegram projects.
+- 🌱 I’m currently learning more about Python and FastAPI with Docker.
+- 😊 I’m looking for friends from Python community.
+- 🤔 I’m looking for help with startup projects.
 - 💬 Ask me about Python, JavaScript, C# or C++.
 
 ### Languages and Tools
