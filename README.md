@@ -8,11 +8,7 @@
 - 💬 Ask me about Python, JavaScript, C# or C++.
 
 <a href="https://github.com/Forevka">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=archiesir&show_icons=true&include_all_commits=true&theme=vue" alt="Forevka's github stats" />
-</a>
-
-<a href="https://github.com/Forevka">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=archiesir&layout=compact&theme=vue" alt="Forevka's github stats" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=archiesir&show_icons=true&include_all_commits=true&theme=vue" alt="Sir Archie stats" />
 </a>
 
 ### Get in touch
