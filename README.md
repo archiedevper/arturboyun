@@ -7,13 +7,13 @@
 - 🤔 I’m looking for help with startup projects.
 - 💬 Ask me about Python, JavaScript, C# or C++.
 
-### Languages and Tools
-![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python)
-![Django](https://img.shields.io/badge/Django-090909?style=for-the-badge&logo=django&logoColor=brightgreen)
-![Telegram API](https://img.shields.io/badge/Telegram%20API-090909?style=for-the-badge&logo=telegram)
-![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript)
-![Vue](https://img.shields.io/badge/Vue-090909?style=for-the-badge&logo=vue.js)
-![Docker](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=docker)
+<a href="https://github.com/Forevka">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=archiesir&show_icons=true&include_all_commits=true&theme=vue" alt="Forevka's github stats" />
+</a>
+
+<a href="https://github.com/Forevka">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=archiesir&layout=compact&theme=vue" alt="Forevka's github stats" />
+</a>
 
 ### Get in touch
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/archiesir)
