@@ -1,10 +1,9 @@
 ## Hi there i'm Archie👋
 
 ### Information:
-- 🔭 I’m currently working on freelance and telegram projects.
-- 🌱 I’m currently learning more about Python and FastAPI with Docker.
+- 🔭 I’m currently working on [Labyrinth](https://labyrinth.tech/).
+- 🌱 I’m currently learning more about Python and FastAPI.
 - 😊 I’m looking for friends from Python community.
-- 🤔 I’m looking for help with startup projects.
 - 💬 Ask me about Python, JavaScript, C# or C++.
 
 <a href="https://github.com/Forevka">
